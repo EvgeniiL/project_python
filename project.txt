@@ -1,4 +1,4 @@
-print("hello, world!")
-print("hello, everything!")
-print("hello, university!")
-print("I'm programmist:)")
+print("hello, world!;")
+print("hello, everything!;")
+print("hello, university!;")
+print("I'm programmist;")
